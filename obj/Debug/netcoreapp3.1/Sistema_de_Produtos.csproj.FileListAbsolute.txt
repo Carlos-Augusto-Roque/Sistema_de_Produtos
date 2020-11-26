@@ -1,0 +1,13 @@
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Sistema_de_Produtos\bin\Debug\netcoreapp3.1\Sistema_de_Produtos.exe
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Sistema_de_Produtos\bin\Debug\netcoreapp3.1\Sistema_de_Produtos.deps.json
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Sistema_de_Produtos\bin\Debug\netcoreapp3.1\Sistema_de_Produtos.runtimeconfig.json
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Sistema_de_Produtos\bin\Debug\netcoreapp3.1\Sistema_de_Produtos.runtimeconfig.dev.json
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Sistema_de_Produtos\bin\Debug\netcoreapp3.1\Sistema_de_Produtos.dll
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Sistema_de_Produtos\bin\Debug\netcoreapp3.1\Sistema_de_Produtos.pdb
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Sistema_de_Produtos\obj\Debug\netcoreapp3.1\Sistema_de_Produtos.csprojAssemblyReference.cache
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Sistema_de_Produtos\obj\Debug\netcoreapp3.1\Sistema_de_Produtos.AssemblyInfoInputs.cache
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Sistema_de_Produtos\obj\Debug\netcoreapp3.1\Sistema_de_Produtos.AssemblyInfo.cs
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Sistema_de_Produtos\obj\Debug\netcoreapp3.1\Sistema_de_Produtos.csproj.CoreCompileInputs.cache
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Sistema_de_Produtos\obj\Debug\netcoreapp3.1\Sistema_de_Produtos.dll
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Sistema_de_Produtos\obj\Debug\netcoreapp3.1\Sistema_de_Produtos.pdb
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Sistema_de_Produtos\obj\Debug\netcoreapp3.1\Sistema_de_Produtos.genruntimeconfig.cache
